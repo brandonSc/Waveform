@@ -1,7 +1,7 @@
-DeskTunes
+Waveform
 =========
 
-DeskTunes is a music/audio visualizer that displays directly on the desktop wallpaper. 
+Waveform is a music/audio visualizer that displays directly on the desktop wallpaper. 
 
 The visualizer will look something like this: <http://www.youtube.com/watch?v=kqjKOL0N8ks> with a similar frequency measure displayed directly on the desktop, along the left and right sides of the screen.
 
